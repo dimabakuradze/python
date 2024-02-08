@@ -31,3 +31,4 @@ print(name + " " + surname)
 #print(type(knows_programing))
 
 print(str(age)+ " წლის ")
+
