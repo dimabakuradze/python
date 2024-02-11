@@ -1,7 +1,7 @@
-xatuna = 39
-murmany = 52
-levani = 21
+mother = 39
+dad = 52
+brother = 21
 
-print(xatuna + 2)
-print(murmany + 2)
-print(levani + 2)
+print(mother + 2)
+print(dad + 2)
+print(brother + 2)
