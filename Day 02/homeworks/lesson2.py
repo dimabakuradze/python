@@ -12,4 +12,3 @@ print("Ras vpiqrob Goa-ze")
 # Da vpiqrob goa momcems motivacias ro, gavxde sauketeso Cxovrebashi.
 
 
-
