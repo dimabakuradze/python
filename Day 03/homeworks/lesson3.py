@@ -1,4 +1,4 @@
-mother = 39
+mother = 40
 dad = 52
 brother = 21
 

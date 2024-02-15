@@ -10,7 +10,7 @@ surname = "bakuradze"
 
 name = "dima" #ეს არის str (string) ტიპის ვცვლადი
 age = 15 # ეს არის int ( intenger ) მთელი რიცხვი
-heigh = 175.5 #ეს არის float ტიპის ვცვლადი ( ათწილადი )
+heigh = 176 #ეს არის float ტიპის ვცვლადი ( ათწილადი )
 #boolean (bool) ტიპის ცვლადი
 
 knows_programing = True #true ან false

@@ -4,8 +4,9 @@ print("Gavicani da Davumegobrdi")
 # Lika
 # tazo
 # Barbare
+# nia
 
-print("Ras vpiqrob Goa-ze")
+print("Ras vpiqrob Goa-ze") 
 
 # Vpiqrob goa aris. Ert-Ert sauketeso akademia,
 # sadac martla aris swavla shesadzlebeli, Goa-shi araperia sheuzlebeli.

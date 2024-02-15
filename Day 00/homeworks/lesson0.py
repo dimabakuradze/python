@@ -2,7 +2,7 @@ from turtle import *
 
 
 width(7)
-color("green")
+color("black")
 speed(5)
 #step one 1: draw square
 begin_fill()
