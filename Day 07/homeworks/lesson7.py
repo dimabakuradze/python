@@ -14,5 +14,6 @@
 # print(num)
 
 
-# for num in range(4):
-#     print("dima bakuradze",num)
+# text = "dima bakuradze"
+# for chr in text:
+#     print(chr)
