@@ -4,15 +4,22 @@
 
 # i = 1
 # while i<=20:
-#      print(i)
-#      i += 1
+#       print(i)
+#       i += 1
 
 
+
+# num1 = 0
 # num = 0
-# for num in range(6):
-#     num += num
-# print(num)
+
+# while num <= 5:
+#     num1 += num
+#     num += 1
+
+#     print(num1)
+ 
 
 
 # for i in "dima bakuradze":
 #     print(i)
+
