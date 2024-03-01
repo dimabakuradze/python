@@ -22,9 +22,8 @@ if Age >= 50:
 elif  Age >= 18:
   print("your an a adult")
 
-if Age >= 15:
+else:
   print("your not an adult")
-
 
 
 
