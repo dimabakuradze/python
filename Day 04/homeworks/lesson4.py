@@ -3,4 +3,3 @@ lastname =input("what is your lastname: ")
 
 print("Welcome", name, lastname,)
 
-
