@@ -1,10 +1,10 @@
 
 
-name = "dima"
-lastname = "bakuradze"
+name = "Dima Bakuradze"
 
-num1 = name[0:3]
-num2 = lastname[0:4]
 
-print(num1)
-print(num2)
+nam1 = name[:4]
+nam2 = name[5:]
+
+print(nam1)
+print(nam2)
