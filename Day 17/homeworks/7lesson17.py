@@ -6,3 +6,4 @@ def num(number):
 
 number = ["dima","barbare"]
 print(num(number))
+
